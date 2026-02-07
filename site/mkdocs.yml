@@ -1,1 +1,34 @@
-site_name: МОЙ сайт
+site_name: Портфолио
+site_url: https://imaskot.github.io/demo/
+
+
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep-orange
+  features:
+    - navigation.tabs
+    - header.autohide
+
+
+nav:
+  - Обо мне: index.md
+  - Мои Проекты: projects.md
+  - Контакты: contact.md
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+copyright: Copyright &copy; 2026 Максим Седов
