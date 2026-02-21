@@ -6,7 +6,7 @@
 ## 1. Репозиторий с лабораторными работами
 Репозиторий с большим количеством лабораторных работ  
 - **Стек:** Python, HTML, CSS  
-- [Ссылка на код](https://github.com/IMaSKoT/ITMO_course_Python)
+- [Ссылка на репозиторий](https://github.com/IMaSKoT/ITMO_course_Python)
 
 ---
 

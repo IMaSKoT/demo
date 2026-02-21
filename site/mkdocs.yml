@@ -16,7 +16,7 @@ theme:
 
 nav:
   - Обо мне: index.md
-  - Мои Проекты: projects.md
+  - Лабораторные работы: projects.md
   - Контакты: contact.md
 
 plugins:
